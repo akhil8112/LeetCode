@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/akhil8112/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/akhil8112/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -35,10 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/akhil8112/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/akhil8112/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/akhil8112/LeetCode/tree/master/0210-course-schedule-ii) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/akhil8112/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Graph Theory
 |  |
 | ------- |
