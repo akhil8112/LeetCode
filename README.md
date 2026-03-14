@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/akhil8112/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/akhil8112/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2404-most-frequent-even-element](https://github.com/akhil8112/LeetCode/tree/master/2404-most-frequent-even-element) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/akhil8112/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/akhil8112/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Counting
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/akhil8112/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3099-harshad-number](https://github.com/akhil8112/LeetCode/tree/master/3099-harshad-number) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/akhil8112/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Database
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/akhil8112/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/akhil8112/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/akhil8112/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Matrix
 |  |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/akhil8112/LeetCode/tree/master/0506-relative-ranks) |
 | [0743-network-delay-time](https://github.com/akhil8112/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/akhil8112/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/akhil8112/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/akhil8112/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
 |  |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/akhil8112/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/akhil8112/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Union-Find
 |  |
