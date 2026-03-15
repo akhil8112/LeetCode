@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/akhil8112/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0210-course-schedule-ii](https://github.com/akhil8112/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/akhil8112/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0743-network-delay-time](https://github.com/akhil8112/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/akhil8112/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/akhil8112/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/akhil8112/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/akhil8112/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0419-battleships-in-a-board](https://github.com/akhil8112/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0743-network-delay-time](https://github.com/akhil8112/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/akhil8112/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/akhil8112/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/akhil8112/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0743-network-delay-time](https://github.com/akhil8112/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/akhil8112/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/akhil8112/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/akhil8112/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/akhil8112/LeetCode/tree/master/0310-minimum-height-trees) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/akhil8112/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Rolling Hash
 |  |
