@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akhil8112/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0143-reorder-list](https://github.com/akhil8112/LeetCode/tree/master/0143-reorder-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/akhil8112/LeetCode/tree/master/0143-reorder-list) |
 | [0295-find-median-from-data-stream](https://github.com/akhil8112/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akhil8112/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akhil8112/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -289,4 +291,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/akhil8112/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/akhil8112/LeetCode/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/akhil8112/LeetCode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
