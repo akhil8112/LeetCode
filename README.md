@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/akhil8112/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/akhil8112/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/akhil8112/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/akhil8112/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/akhil8112/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/akhil8112/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/akhil8112/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0463-island-perimeter](https://github.com/akhil8112/LeetCode/tree/master/0463-island-perimeter) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/akhil8112/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0743-network-delay-time](https://github.com/akhil8112/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/akhil8112/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/akhil8112/LeetCode/tree/master/0841-keys-and-rooms) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/akhil8112/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/akhil8112/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/akhil8112/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/akhil8112/LeetCode/tree/master/0872-leaf-similar-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/akhil8112/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0310-minimum-height-trees](https://github.com/akhil8112/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0419-battleships-in-a-board](https://github.com/akhil8112/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/akhil8112/LeetCode/tree/master/0463-island-perimeter) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/akhil8112/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/akhil8112/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0743-network-delay-time](https://github.com/akhil8112/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/akhil8112/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -321,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/akhil8112/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/akhil8112/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 <!---LeetCode Topics End-->
