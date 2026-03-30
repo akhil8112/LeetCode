@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/akhil8112/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akhil8112/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akhil8112/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/akhil8112/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0419-battleships-in-a-board](https://github.com/akhil8112/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/akhil8112/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/akhil8112/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/akhil8112/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/akhil8112/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/akhil8112/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/akhil8112/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
