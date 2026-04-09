@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/akhil8112/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/akhil8112/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/akhil8112/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/akhil8112/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Counting
 |  |
 | ------- |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akhil8112/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akhil8112/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/akhil8112/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Merge Sort
 |  |
 | ------- |
