@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/akhil8112/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0846-hand-of-straights](https://github.com/akhil8112/LeetCode/tree/master/0846-hand-of-straights) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/akhil8112/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2295-replace-elements-in-an-array](https://github.com/akhil8112/LeetCode/tree/master/2295-replace-elements-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/akhil8112/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/akhil8112/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## String
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/akhil8112/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/akhil8112/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akhil8112/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2295-replace-elements-in-an-array](https://github.com/akhil8112/LeetCode/tree/master/2295-replace-elements-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/akhil8112/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2906-construct-product-matrix](https://github.com/akhil8112/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/akhil8112/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/akhil8112/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/akhil8112/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akhil8112/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2295-replace-elements-in-an-array](https://github.com/akhil8112/LeetCode/tree/master/2295-replace-elements-in-an-array) |
 ## Math
 |  |
 | ------- |
