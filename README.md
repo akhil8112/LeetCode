@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/akhil8112/LeetCode/tree/master/0846-hand-of-straights) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/akhil8112/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2295-replace-elements-in-an-array](https://github.com/akhil8112/LeetCode/tree/master/2295-replace-elements-in-an-array) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akhil8112/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2404-most-frequent-even-element](https://github.com/akhil8112/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/akhil8112/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## String
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/akhil8112/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/akhil8112/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1609-even-odd-tree](https://github.com/akhil8112/LeetCode/tree/master/1609-even-odd-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akhil8112/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/akhil8112/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/akhil8112/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1609-even-odd-tree](https://github.com/akhil8112/LeetCode/tree/master/1609-even-odd-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akhil8112/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/akhil8112/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/akhil8112/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1609-even-odd-tree](https://github.com/akhil8112/LeetCode/tree/master/1609-even-odd-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akhil8112/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/akhil8112/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/akhil8112/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/akhil8112/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akhil8112/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Graph Theory
 |  |
 | ------- |
