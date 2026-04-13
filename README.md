@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/akhil8112/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/akhil8112/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0143-reorder-list](https://github.com/akhil8112/LeetCode/tree/master/0143-reorder-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akhil8112/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/akhil8112/LeetCode/tree/master/0143-reorder-list) |
 | [0295-find-median-from-data-stream](https://github.com/akhil8112/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akhil8112/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akhil8112/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akhil8112/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3643-flip-square-submatrix-vertically](https://github.com/akhil8112/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Data Stream
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/akhil8112/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/akhil8112/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/akhil8112/LeetCode/tree/master/0739-daily-temperatures) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akhil8112/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
