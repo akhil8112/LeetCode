@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/akhil8112/LeetCode/tree/master/0143-reorder-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akhil8112/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/akhil8112/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2487-remove-nodes-from-linked-list](https://github.com/akhil8112/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -382,10 +383,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/akhil8112/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/akhil8112/LeetCode/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akhil8112/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/akhil8112/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/akhil8112/LeetCode/tree/master/0143-reorder-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/akhil8112/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -400,4 +403,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/akhil8112/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/akhil8112/LeetCode/tree/master/0739-daily-temperatures) |
+| [2487-remove-nodes-from-linked-list](https://github.com/akhil8112/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
