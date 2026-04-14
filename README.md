@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/akhil8112/LeetCode/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/akhil8112/LeetCode/tree/master/0397-integer-replacement) |
 | [1009-complement-of-base-10-integer](https://github.com/akhil8112/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/akhil8112/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/akhil8112/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/akhil8112/LeetCode/tree/master/0397-integer-replacement) |
 | [0846-hand-of-straights](https://github.com/akhil8112/LeetCode/tree/master/0846-hand-of-straights) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/akhil8112/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/akhil8112/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/akhil8112/LeetCode/tree/master/0397-integer-replacement) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/akhil8112/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/akhil8112/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/akhil8112/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -414,4 +417,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/akhil8112/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/akhil8112/LeetCode/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
