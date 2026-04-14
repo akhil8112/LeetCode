@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/akhil8112/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/akhil8112/LeetCode/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akhil8112/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0445-add-two-numbers-ii](https://github.com/akhil8112/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/akhil8112/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1622-fancy-sequence](https://github.com/akhil8112/LeetCode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/akhil8112/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/akhil8112/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/akhil8112/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0143-reorder-list](https://github.com/akhil8112/LeetCode/tree/master/0143-reorder-list) |
+| [0445-add-two-numbers-ii](https://github.com/akhil8112/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akhil8112/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/akhil8112/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/akhil8112/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/akhil8112/LeetCode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akhil8112/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/akhil8112/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0445-add-two-numbers-ii](https://github.com/akhil8112/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/akhil8112/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/akhil8112/LeetCode/tree/master/0739-daily-temperatures) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akhil8112/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
