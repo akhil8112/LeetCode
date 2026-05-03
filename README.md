@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/akhil8112/LeetCode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/akhil8112/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/akhil8112/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/akhil8112/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/akhil8112/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/akhil8112/LeetCode/tree/master/0242-valid-anagram) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/akhil8112/LeetCode/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/akhil8112/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/akhil8112/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/akhil8112/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/akhil8112/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/akhil8112/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/akhil8112/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/akhil8112/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/akhil8112/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/akhil8112/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0419-battleships-in-a-board](https://github.com/akhil8112/LeetCode/tree/master/0419-battleships-in-a-board) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/akhil8112/LeetCode/tree/master/0037-sudoku-solver) |
 | [0052-n-queens-ii](https://github.com/akhil8112/LeetCode/tree/master/0052-n-queens-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/akhil8112/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Design
