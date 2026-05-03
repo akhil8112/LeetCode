@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/akhil8112/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0846-hand-of-straights](https://github.com/akhil8112/LeetCode/tree/master/0846-hand-of-straights) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/akhil8112/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/akhil8112/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2295-replace-elements-in-an-array](https://github.com/akhil8112/LeetCode/tree/master/2295-replace-elements-in-an-array) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akhil8112/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2404-most-frequent-even-element](https://github.com/akhil8112/LeetCode/tree/master/2404-most-frequent-even-element) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/akhil8112/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/akhil8112/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/akhil8112/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/akhil8112/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akhil8112/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2295-replace-elements-in-an-array](https://github.com/akhil8112/LeetCode/tree/master/2295-replace-elements-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/akhil8112/LeetCode/tree/master/2404-most-frequent-even-element) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/akhil8112/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/akhil8112/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/akhil8112/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/akhil8112/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2906-construct-product-matrix](https://github.com/akhil8112/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/akhil8112/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/akhil8112/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
