@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/akhil8112/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akhil8112/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2295-replace-elements-in-an-array](https://github.com/akhil8112/LeetCode/tree/master/2295-replace-elements-in-an-array) |
+| [2326-spiral-matrix-iv](https://github.com/akhil8112/LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2404-most-frequent-even-element](https://github.com/akhil8112/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/akhil8112/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/akhil8112/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/akhil8112/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/akhil8112/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2295-replace-elements-in-an-array](https://github.com/akhil8112/LeetCode/tree/master/2295-replace-elements-in-an-array) |
+| [2326-spiral-matrix-iv](https://github.com/akhil8112/LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2390-removing-stars-from-a-string](https://github.com/akhil8112/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/akhil8112/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 ## Math
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/akhil8112/LeetCode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/akhil8112/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/akhil8112/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2326-spiral-matrix-iv](https://github.com/akhil8112/LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/akhil8112/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2906-construct-product-matrix](https://github.com/akhil8112/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/akhil8112/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/akhil8112/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/akhil8112/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/akhil8112/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2326-spiral-matrix-iv](https://github.com/akhil8112/LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2487-remove-nodes-from-linked-list](https://github.com/akhil8112/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/akhil8112/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Divide and Conquer
