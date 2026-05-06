@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/akhil8112/LeetCode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/akhil8112/LeetCode/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/akhil8112/LeetCode/tree/master/0844-backspace-string-compare) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/akhil8112/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/akhil8112/LeetCode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/akhil8112/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/akhil8112/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/akhil8112/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0788-rotated-digits](https://github.com/akhil8112/LeetCode/tree/master/0788-rotated-digits) |
 | [0976-largest-perimeter-triangle](https://github.com/akhil8112/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/akhil8112/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/akhil8112/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/akhil8112/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1622-fancy-sequence](https://github.com/akhil8112/LeetCode/tree/master/1622-fancy-sequence) |
