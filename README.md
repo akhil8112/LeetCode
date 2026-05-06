@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1222-queens-that-can-attack-the-king](https://github.com/akhil8112/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/akhil8112/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akhil8112/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/akhil8112/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1514-path-with-maximum-probability](https://github.com/akhil8112/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/akhil8112/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/akhil8112/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
