@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/akhil8112/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2615-sum-of-distances](https://github.com/akhil8112/LeetCode/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/akhil8112/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/akhil8112/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## String
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1609-even-odd-tree](https://github.com/akhil8112/LeetCode/tree/master/1609-even-odd-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akhil8112/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2685-count-the-number-of-complete-components](https://github.com/akhil8112/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/akhil8112/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/akhil8112/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/akhil8112/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/akhil8112/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/akhil8112/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3643-flip-square-submatrix-vertically](https://github.com/akhil8112/LeetCode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/akhil8112/LeetCode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Counting
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/akhil8112/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3099-harshad-number](https://github.com/akhil8112/LeetCode/tree/master/3099-harshad-number) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/akhil8112/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/akhil8112/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Database
 |  |
 | ------- |
@@ -553,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/akhil8112/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/akhil8112/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Memoization
 |  |
 | ------- |
