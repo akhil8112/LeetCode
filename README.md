@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/akhil8112/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/akhil8112/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/akhil8112/LeetCode/tree/master/0049-group-anagrams) |
+| [0151-reverse-words-in-a-string](https://github.com/akhil8112/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/akhil8112/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/akhil8112/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/akhil8112/LeetCode/tree/master/0290-word-pattern) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/akhil8112/LeetCode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akhil8112/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0143-reorder-list](https://github.com/akhil8112/LeetCode/tree/master/0143-reorder-list) |
+| [0151-reverse-words-in-a-string](https://github.com/akhil8112/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/akhil8112/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akhil8112/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0844-backspace-string-compare](https://github.com/akhil8112/LeetCode/tree/master/0844-backspace-string-compare) |
