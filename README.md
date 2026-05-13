@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/akhil8112/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/akhil8112/LeetCode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/akhil8112/LeetCode/tree/master/0389-find-the-difference) |
+| [0443-string-compression](https://github.com/akhil8112/LeetCode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/akhil8112/LeetCode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/akhil8112/LeetCode/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/akhil8112/LeetCode/tree/master/0844-backspace-string-compare) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/akhil8112/LeetCode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/akhil8112/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/akhil8112/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0443-string-compression](https://github.com/akhil8112/LeetCode/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akhil8112/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0844-backspace-string-compare](https://github.com/akhil8112/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/akhil8112/LeetCode/tree/master/0905-sort-array-by-parity) |
