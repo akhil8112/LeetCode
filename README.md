@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/akhil8112/LeetCode/tree/master/0846-hand-of-straights) |
 | [0905-sort-array-by-parity](https://github.com/akhil8112/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/akhil8112/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+| [1200-minimum-absolute-difference](https://github.com/akhil8112/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/akhil8112/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/akhil8112/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/akhil8112/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/akhil8112/LeetCode/tree/master/0999-available-captures-for-rook) |
 | [1046-last-stone-weight](https://github.com/akhil8112/LeetCode/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/akhil8112/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1200-minimum-absolute-difference](https://github.com/akhil8112/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1222-queens-that-can-attack-the-king](https://github.com/akhil8112/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/akhil8112/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akhil8112/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
