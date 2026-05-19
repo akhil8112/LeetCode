@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/akhil8112/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/akhil8112/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2295-replace-elements-in-an-array](https://github.com/akhil8112/LeetCode/tree/master/2295-replace-elements-in-an-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/akhil8112/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akhil8112/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2404-most-frequent-even-element](https://github.com/akhil8112/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2615-sum-of-distances](https://github.com/akhil8112/LeetCode/tree/master/2615-sum-of-distances) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/akhil8112/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2295-replace-elements-in-an-array](https://github.com/akhil8112/LeetCode/tree/master/2295-replace-elements-in-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/akhil8112/LeetCode/tree/master/2326-spiral-matrix-iv) |
+| [2352-equal-row-and-column-pairs](https://github.com/akhil8112/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2404-most-frequent-even-element](https://github.com/akhil8112/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/akhil8112/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/akhil8112/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/akhil8112/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2295-replace-elements-in-an-array](https://github.com/akhil8112/LeetCode/tree/master/2295-replace-elements-in-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/akhil8112/LeetCode/tree/master/2326-spiral-matrix-iv) |
+| [2352-equal-row-and-column-pairs](https://github.com/akhil8112/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/akhil8112/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/akhil8112/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2553-separate-the-digits-in-an-array](https://github.com/akhil8112/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/akhil8112/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/akhil8112/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2326-spiral-matrix-iv](https://github.com/akhil8112/LeetCode/tree/master/2326-spiral-matrix-iv) |
+| [2352-equal-row-and-column-pairs](https://github.com/akhil8112/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/akhil8112/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2906-construct-product-matrix](https://github.com/akhil8112/LeetCode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/akhil8112/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
