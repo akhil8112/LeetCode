@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1361-validate-binary-tree-nodes](https://github.com/akhil8112/LeetCode/tree/master/1361-validate-binary-tree-nodes) |
 | [1514-path-with-maximum-probability](https://github.com/akhil8112/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/akhil8112/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1615-maximal-network-rank](https://github.com/akhil8112/LeetCode/tree/master/1615-maximal-network-rank) |
 | [1791-find-center-of-star-graph](https://github.com/akhil8112/LeetCode/tree/master/1791-find-center-of-star-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/akhil8112/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2685-count-the-number-of-complete-components](https://github.com/akhil8112/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
