@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/akhil8112/LeetCode/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/akhil8112/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/akhil8112/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/akhil8112/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/akhil8112/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## String
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/akhil8112/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/akhil8112/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/akhil8112/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/akhil8112/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Bit Manipulation
 |  |
 | ------- |
