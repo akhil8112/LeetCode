@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/akhil8112/LeetCode/tree/master/3099-harshad-number) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/akhil8112/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/akhil8112/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/akhil8112/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Database
 |  |
 | ------- |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/akhil8112/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/akhil8112/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/akhil8112/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/akhil8112/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Sliding Window
 |  |
 | ------- |
