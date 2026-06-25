@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/akhil8112/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/akhil8112/LeetCode/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akhil8112/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0566-reshape-the-matrix](https://github.com/akhil8112/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/akhil8112/LeetCode/tree/master/0605-can-place-flowers) |
 | [0661-image-smoother](https://github.com/akhil8112/LeetCode/tree/master/0661-image-smoother) |
 | [0724-find-pivot-index](https://github.com/akhil8112/LeetCode/tree/master/0724-find-pivot-index) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/akhil8112/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/akhil8112/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/akhil8112/LeetCode/tree/master/0289-game-of-life) |
+| [0566-reshape-the-matrix](https://github.com/akhil8112/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0844-backspace-string-compare](https://github.com/akhil8112/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/akhil8112/LeetCode/tree/master/0867-transpose-matrix) |
 | [0999-available-captures-for-rook](https://github.com/akhil8112/LeetCode/tree/master/0999-available-captures-for-rook) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/akhil8112/LeetCode/tree/master/0289-game-of-life) |
 | [0419-battleships-in-a-board](https://github.com/akhil8112/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/akhil8112/LeetCode/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/akhil8112/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/akhil8112/LeetCode/tree/master/0661-image-smoother) |
 | [0867-transpose-matrix](https://github.com/akhil8112/LeetCode/tree/master/0867-transpose-matrix) |
 | [0999-available-captures-for-rook](https://github.com/akhil8112/LeetCode/tree/master/0999-available-captures-for-rook) |
