@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/akhil8112/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/akhil8112/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/akhil8112/LeetCode/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/akhil8112/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0389-find-the-difference](https://github.com/akhil8112/LeetCode/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/akhil8112/LeetCode/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/akhil8112/LeetCode/tree/master/0520-detect-capital) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akhil8112/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/akhil8112/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/akhil8112/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/akhil8112/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/akhil8112/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/akhil8112/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/akhil8112/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/akhil8112/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0210-course-schedule-ii](https://github.com/akhil8112/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/akhil8112/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/akhil8112/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/akhil8112/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0463-island-perimeter](https://github.com/akhil8112/LeetCode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/akhil8112/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akhil8112/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/akhil8112/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/akhil8112/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/akhil8112/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/akhil8112/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/akhil8112/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/akhil8112/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/akhil8112/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0210-course-schedule-ii](https://github.com/akhil8112/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/akhil8112/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/akhil8112/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/akhil8112/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0419-battleships-in-a-board](https://github.com/akhil8112/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/akhil8112/LeetCode/tree/master/0463-island-perimeter) |
@@ -575,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/akhil8112/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/akhil8112/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/akhil8112/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1622-fancy-sequence](https://github.com/akhil8112/LeetCode/tree/master/1622-fancy-sequence) |
 ## Segment Tree
 |  |
