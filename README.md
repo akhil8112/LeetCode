@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/akhil8112/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/akhil8112/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/akhil8112/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/akhil8112/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2295-replace-elements-in-an-array](https://github.com/akhil8112/LeetCode/tree/master/2295-replace-elements-in-an-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/akhil8112/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akhil8112/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/akhil8112/LeetCode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/akhil8112/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/akhil8112/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/akhil8112/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2295-replace-elements-in-an-array](https://github.com/akhil8112/LeetCode/tree/master/2295-replace-elements-in-an-array) |
 | [2326-spiral-matrix-iv](https://github.com/akhil8112/LeetCode/tree/master/2326-spiral-matrix-iv) |
 | [2352-equal-row-and-column-pairs](https://github.com/akhil8112/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/akhil8112/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/akhil8112/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2404-most-frequent-even-element](https://github.com/akhil8112/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2833-furthest-point-from-origin](https://github.com/akhil8112/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/akhil8112/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/akhil8112/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/akhil8112/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/akhil8112/LeetCode/tree/master/2126-destroying-asteroids) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/akhil8112/LeetCode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/akhil8112/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/akhil8112/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/akhil8112/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
