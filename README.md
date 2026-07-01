@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/akhil8112/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/akhil8112/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1222-queens-that-can-attack-the-king](https://github.com/akhil8112/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/akhil8112/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1345-jump-game-iv](https://github.com/akhil8112/LeetCode/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/akhil8112/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akhil8112/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/akhil8112/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/akhil8112/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/akhil8112/LeetCode/tree/master/1137-n-th-tribonacci-number) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/akhil8112/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/akhil8112/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1622-fancy-sequence](https://github.com/akhil8112/LeetCode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/akhil8112/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -736,4 +738,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/akhil8112/LeetCode/tree/master/3161-block-placement-queries) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/akhil8112/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
