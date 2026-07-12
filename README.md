@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhil8112/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0846-hand-of-straights](https://github.com/akhil8112/LeetCode/tree/master/0846-hand-of-straights) |
 | [1207-unique-number-of-occurrences](https://github.com/akhil8112/LeetCode/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/akhil8112/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/akhil8112/LeetCode/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/akhil8112/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/akhil8112/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/akhil8112/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/akhil8112/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/akhil8112/LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1331-rank-transform-of-an-array](https://github.com/akhil8112/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/akhil8112/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/akhil8112/LeetCode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/akhil8112/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/akhil8112/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1222-queens-that-can-attack-the-king](https://github.com/akhil8112/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/akhil8112/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1331-rank-transform-of-an-array](https://github.com/akhil8112/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/akhil8112/LeetCode/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/akhil8112/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/akhil8112/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
