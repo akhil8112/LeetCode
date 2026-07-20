@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/akhil8112/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/akhil8112/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/akhil8112/LeetCode/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/akhil8112/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0414-third-maximum-number](https://github.com/akhil8112/LeetCode/tree/master/0414-third-maximum-number) |
 | [0419-battleships-in-a-board](https://github.com/akhil8112/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/akhil8112/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/akhil8112/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/akhil8112/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/akhil8112/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0397-integer-replacement](https://github.com/akhil8112/LeetCode/tree/master/0397-integer-replacement) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/akhil8112/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/akhil8112/LeetCode/tree/master/0788-rotated-digits) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akhil8112/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/akhil8112/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/akhil8112/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akhil8112/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2540-minimum-common-value](https://github.com/akhil8112/LeetCode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akhil8112/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
