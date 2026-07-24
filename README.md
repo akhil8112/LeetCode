@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/akhil8112/LeetCode/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/akhil8112/LeetCode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/akhil8112/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/akhil8112/LeetCode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/akhil8112/LeetCode/tree/master/0048-rotate-image) |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/akhil8112/LeetCode/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/akhil8112/LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/akhil8112/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/akhil8112/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akhil8112/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
