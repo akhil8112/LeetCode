@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/akhil8112/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0134-gas-station](https://github.com/akhil8112/LeetCode/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akhil8112/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/akhil8112/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akhil8112/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/akhil8112/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/akhil8112/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -579,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/akhil8112/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/akhil8112/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/akhil8112/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0152-maximum-product-subarray](https://github.com/akhil8112/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/akhil8112/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/akhil8112/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0397-integer-replacement](https://github.com/akhil8112/LeetCode/tree/master/0397-integer-replacement) |
