@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/akhil8112/LeetCode/tree/master/0463-island-perimeter) |
 | [0477-total-hamming-distance](https://github.com/akhil8112/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/akhil8112/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/akhil8112/LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/akhil8112/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/akhil8112/LeetCode/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akhil8112/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/akhil8112/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0445-add-two-numbers-ii](https://github.com/akhil8112/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0477-total-hamming-distance](https://github.com/akhil8112/LeetCode/tree/master/0477-total-hamming-distance) |
+| [0486-predict-the-winner](https://github.com/akhil8112/LeetCode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/akhil8112/LeetCode/tree/master/0788-rotated-digits) |
 | [0976-largest-perimeter-triangle](https://github.com/akhil8112/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/akhil8112/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/akhil8112/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/akhil8112/LeetCode/tree/master/0354-russian-doll-envelopes) |
 | [0397-integer-replacement](https://github.com/akhil8112/LeetCode/tree/master/0397-integer-replacement) |
+| [0486-predict-the-winner](https://github.com/akhil8112/LeetCode/tree/master/0486-predict-the-winner) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/akhil8112/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0788-rotated-digits](https://github.com/akhil8112/LeetCode/tree/master/0788-rotated-digits) |
 | [0968-binary-tree-cameras](https://github.com/akhil8112/LeetCode/tree/master/0968-binary-tree-cameras) |
@@ -766,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/akhil8112/LeetCode/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/akhil8112/LeetCode/tree/master/0143-reorder-list) |
+| [0486-predict-the-winner](https://github.com/akhil8112/LeetCode/tree/master/0486-predict-the-winner) |
 | [2487-remove-nodes-from-linked-list](https://github.com/akhil8112/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Queue
 |  |
@@ -818,4 +822,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/akhil8112/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/akhil8112/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
