@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/akhil8112/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/akhil8112/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/akhil8112/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1510-stone-game-iv](https://github.com/akhil8112/LeetCode/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/akhil8112/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1622-fancy-sequence](https://github.com/akhil8112/LeetCode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/akhil8112/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/akhil8112/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [1137-n-th-tribonacci-number](https://github.com/akhil8112/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/akhil8112/LeetCode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1510-stone-game-iv](https://github.com/akhil8112/LeetCode/tree/master/1510-stone-game-iv) |
 | [1871-jump-game-vii](https://github.com/akhil8112/LeetCode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/akhil8112/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/akhil8112/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -838,4 +840,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/akhil8112/LeetCode/tree/master/0486-predict-the-winner) |
+| [1510-stone-game-iv](https://github.com/akhil8112/LeetCode/tree/master/1510-stone-game-iv) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/akhil8112/LeetCode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/akhil8112/LeetCode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/akhil8112/LeetCode/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/akhil8112/LeetCode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
