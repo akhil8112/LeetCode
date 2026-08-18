@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/akhil8112/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/akhil8112/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/akhil8112/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0208-implement-trie-prefix-tree](https://github.com/akhil8112/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/akhil8112/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/akhil8112/LeetCode/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/akhil8112/LeetCode/tree/master/0389-find-the-difference) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/akhil8112/LeetCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/akhil8112/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/akhil8112/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/akhil8112/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/akhil8112/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/akhil8112/LeetCode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/akhil8112/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/akhil8112/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/akhil8112/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/akhil8112/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/akhil8112/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -870,4 +873,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/akhil8112/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/akhil8112/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
