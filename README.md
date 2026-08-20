@@ -433,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akhil8112/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/akhil8112/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2906-construct-product-matrix](https://github.com/akhil8112/LeetCode/tree/master/2906-construct-product-matrix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/akhil8112/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/akhil8112/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3161-block-placement-queries](https://github.com/akhil8112/LeetCode/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/akhil8112/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/akhil8112/LeetCode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2553-separate-the-digits-in-an-array](https://github.com/akhil8112/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/akhil8112/LeetCode/tree/master/2596-check-knight-tour-configuration) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/akhil8112/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Math
 |  |
 | ------- |
