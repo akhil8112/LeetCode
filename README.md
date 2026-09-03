@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/akhil8112/LeetCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/akhil8112/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/akhil8112/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/akhil8112/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/akhil8112/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/akhil8112/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/akhil8112/LeetCode/tree/master/0078-subsets) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/akhil8112/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/akhil8112/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/akhil8112/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/akhil8112/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/akhil8112/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/akhil8112/LeetCode/tree/master/0289-game-of-life) |
 | [0419-battleships-in-a-board](https://github.com/akhil8112/LeetCode/tree/master/0419-battleships-in-a-board) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/akhil8112/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/akhil8112/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/akhil8112/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/akhil8112/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0096-unique-binary-search-trees](https://github.com/akhil8112/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/akhil8112/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/akhil8112/LeetCode/tree/master/0119-pascals-triangle-ii) |
