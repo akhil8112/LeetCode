@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/akhil8112/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/akhil8112/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/akhil8112/LeetCode/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/akhil8112/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/akhil8112/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/akhil8112/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/akhil8112/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -637,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/akhil8112/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/akhil8112/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0096-unique-binary-search-trees](https://github.com/akhil8112/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/akhil8112/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/akhil8112/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/akhil8112/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/akhil8112/LeetCode/tree/master/0120-triangle) |
