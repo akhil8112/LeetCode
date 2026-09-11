@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akhil8112/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/akhil8112/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/akhil8112/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/akhil8112/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/akhil8112/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/akhil8112/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/akhil8112/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/akhil8112/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/akhil8112/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/akhil8112/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/akhil8112/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/akhil8112/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/akhil8112/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/akhil8112/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -835,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/akhil8112/LeetCode/tree/master/0143-reorder-list) |
 | [0486-predict-the-winner](https://github.com/akhil8112/LeetCode/tree/master/0486-predict-the-winner) |
 | [2487-remove-nodes-from-linked-list](https://github.com/akhil8112/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/akhil8112/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -882,6 +885,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akhil8112/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/akhil8112/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/akhil8112/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/akhil8112/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/akhil8112/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
