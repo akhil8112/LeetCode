@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/akhil8112/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/akhil8112/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/akhil8112/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0565-array-nesting](https://github.com/akhil8112/LeetCode/tree/master/0565-array-nesting) |
 | [0617-merge-two-binary-trees](https://github.com/akhil8112/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/akhil8112/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/akhil8112/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/akhil8112/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/akhil8112/LeetCode/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/akhil8112/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0565-array-nesting](https://github.com/akhil8112/LeetCode/tree/master/0565-array-nesting) |
 | [0566-reshape-the-matrix](https://github.com/akhil8112/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/akhil8112/LeetCode/tree/master/0605-can-place-flowers) |
 | [0661-image-smoother](https://github.com/akhil8112/LeetCode/tree/master/0661-image-smoother) |
