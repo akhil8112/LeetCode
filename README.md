@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/akhil8112/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/akhil8112/LeetCode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/akhil8112/LeetCode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/akhil8112/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/akhil8112/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/akhil8112/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/akhil8112/LeetCode/tree/master/0054-spiral-matrix) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/akhil8112/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/akhil8112/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/akhil8112/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/akhil8112/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -792,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/akhil8112/LeetCode/tree/master/0016-3sum-closest) |
 | [0031-next-permutation](https://github.com/akhil8112/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/akhil8112/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/akhil8112/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/akhil8112/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akhil8112/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -823,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akhil8112/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/akhil8112/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/akhil8112/LeetCode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akhil8112/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/akhil8112/LeetCode/tree/master/0225-implement-stack-using-queues) |
@@ -863,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/akhil8112/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/akhil8112/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/akhil8112/LeetCode/tree/master/0739-daily-temperatures) |
 | [2487-remove-nodes-from-linked-list](https://github.com/akhil8112/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
