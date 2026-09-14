@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/akhil8112/LeetCode/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/akhil8112/LeetCode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/akhil8112/LeetCode/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/akhil8112/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/akhil8112/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/akhil8112/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/akhil8112/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -889,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/akhil8112/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/akhil8112/LeetCode/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Enumeration
 |  |
