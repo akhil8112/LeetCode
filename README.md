@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/akhil8112/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/akhil8112/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0389-find-the-difference](https://github.com/akhil8112/LeetCode/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/akhil8112/LeetCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/akhil8112/LeetCode/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/akhil8112/LeetCode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0520-detect-capital](https://github.com/akhil8112/LeetCode/tree/master/0520-detect-capital) |
@@ -838,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/akhil8112/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/akhil8112/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/akhil8112/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0394-decode-string](https://github.com/akhil8112/LeetCode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/akhil8112/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/akhil8112/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/akhil8112/LeetCode/tree/master/0739-daily-temperatures) |
@@ -850,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/akhil8112/LeetCode/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/akhil8112/LeetCode/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/akhil8112/LeetCode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/akhil8112/LeetCode/tree/master/0486-predict-the-winner) |
 | [2487-remove-nodes-from-linked-list](https://github.com/akhil8112/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akhil8112/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
