@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/akhil8112/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akhil8112/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/akhil8112/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/akhil8112/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/akhil8112/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/akhil8112/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/akhil8112/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/akhil8112/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akhil8112/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/akhil8112/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/akhil8112/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/akhil8112/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/akhil8112/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/akhil8112/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -675,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/akhil8112/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/akhil8112/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/akhil8112/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3524-find-x-value-of-array-i](https://github.com/akhil8112/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/akhil8112/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/akhil8112/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Sliding Window
