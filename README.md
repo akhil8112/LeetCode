@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/akhil8112/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2596-check-knight-tour-configuration](https://github.com/akhil8112/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2615-sum-of-distances](https://github.com/akhil8112/LeetCode/tree/master/2615-sum-of-distances) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/akhil8112/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/akhil8112/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/akhil8112/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/akhil8112/LeetCode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -968,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/akhil8112/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akhil8112/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akhil8112/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/akhil8112/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
