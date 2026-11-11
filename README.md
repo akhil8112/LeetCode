@@ -595,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/akhil8112/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/akhil8112/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/akhil8112/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/akhil8112/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3875-construct-uniform-parity-array-i](https://github.com/akhil8112/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/akhil8112/LeetCode/tree/master/3886-sum-of-sortable-integers) |
 ## Database
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/akhil8112/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/akhil8112/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/akhil8112/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/akhil8112/LeetCode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Matrix
 |  |
 | ------- |
