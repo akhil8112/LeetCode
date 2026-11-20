@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/akhil8112/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2784-check-if-array-is-good](https://github.com/akhil8112/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/akhil8112/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/akhil8112/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/akhil8112/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/akhil8112/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/akhil8112/LeetCode/tree/master/3886-sum-of-sortable-integers) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/akhil8112/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/akhil8112/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akhil8112/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/akhil8112/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/akhil8112/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/akhil8112/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/akhil8112/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/akhil8112/LeetCode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/akhil8112/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/akhil8112/LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/akhil8112/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/akhil8112/LeetCode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3524-find-x-value-of-array-i](https://github.com/akhil8112/LeetCode/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/akhil8112/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
