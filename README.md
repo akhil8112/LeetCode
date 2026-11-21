@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/akhil8112/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/akhil8112/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/akhil8112/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/akhil8112/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akhil8112/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/akhil8112/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/akhil8112/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/akhil8112/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/akhil8112/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/akhil8112/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/akhil8112/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akhil8112/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/akhil8112/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/akhil8112/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/akhil8112/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/akhil8112/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/akhil8112/LeetCode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/akhil8112/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/akhil8112/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/akhil8112/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2596-check-knight-tour-configuration](https://github.com/akhil8112/LeetCode/tree/master/2596-check-knight-tour-configuration) |
 | [2685-count-the-number-of-complete-components](https://github.com/akhil8112/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/akhil8112/LeetCode/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/akhil8112/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/akhil8112/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/akhil8112/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Graph Theory
@@ -503,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/akhil8112/LeetCode/tree/master/3161-block-placement-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/akhil8112/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/akhil8112/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/akhil8112/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/akhil8112/LeetCode/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/akhil8112/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/akhil8112/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
